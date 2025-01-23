@@ -48,6 +48,7 @@ return {
         { name = "lazydev" },
         { name = "nvim_lsp" },
         { name = "path" },
+        { name = "render-markdown" },
       }, {
         { name = "buffer" },
       }),
